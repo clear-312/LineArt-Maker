@@ -38,4 +38,4 @@ def process():
     return send_from_directory(app.config['DOWNLOAD_FOLDER'].resolve().as_posix(), 'line_art.jpg', as_attachment=True)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False,host='0.0.0.0')

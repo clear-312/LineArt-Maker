@@ -7,5 +7,7 @@ Create : create two folders i.e. ```uploads``` and ```downloads```
 After that you are good to go 
 
 
-author : Bishnu shrestha
-Language : Python Flask
+```author : Bishnu shrestha```
+
+
+```Language : Python Flask```
